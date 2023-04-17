@@ -28,6 +28,10 @@
     text-align: center
 }
 
+.app__footer-links_logo{
+    margin-top: -2.5rem;
+}
+
 .app__footer-links_logo img:first-child{
     width: 210px;
     margin-bottom: 0.75 rem;

@@ -5,11 +5,21 @@
 .app__aboutus-overlay{
     position: absolute;
     inset: 0;
+    opacity: 0.2;
+    left: 500px
 }
 
-.app__abputus-overlay img{
-    width: 391px;
-    height: 415px;
+.app__aboutus-overlay2{
+    position: absolute;
+    inset: 0;
+    opacity: 0.2;
+    right: 500px;
+}
+
+.app__aboutus-overlay2 img,
+.app__aboutus-overlay img{
+    width: 915px;
+    height: 915px;
     z-index: 0;
 }
 
@@ -67,19 +77,31 @@
 }
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 1150px){
     .app__aboutus-content{
         flex-direction:column;
     }
     .app__aboutus-content knife{
         margin: 4rem 0;
     }
+    .app__aboutus-overlay2 img, 
+    .app__aboutus-overlay img{
+        width: 300px;
+        height: 300px;
+    }
+    .app__aboutus-overlay{
+        left: 100;
+    }
+    .app__aboutus-overlay2{
+        right: 100;
+    }
 }
 
 @media screen and (max-width: 650px){
+    .app__aboutus-overlay2 img, 
     .app__aboutus-overlay img{
-        width: 80%;
-        height: 320px;
+        width: 0px;
+        height: 0px;
     }
     
 }

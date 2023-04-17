@@ -1,7 +1,7 @@
 import React from 'react';
 import{BsInstagram, BsArrowLeftShort, BsArrowRightShort} from 'react-icons/bs';
 import {SubHeading} from '../../components';
-import {images, data} from '../../constants';
+import {images} from '../../constants';
 import './Gallery.css';
 
 const galleryImages =[images.gallery01, images.gallery02, images.gallery03, images.gallery04 ]
@@ -22,7 +22,7 @@ return (
     <div className='app__gallery-content'>
       <SubHeading title="Instagram"/>
       <h1 className='headtext__cormorant'>Photo Gallery</h1>
-      <p className='p__opensans' style={{color: '#AAA', marginTop: '2rem'}}>Sit Tellus Lobortis Sed Senectus Vivamus Molestie. Condimentum Volutpat Morbi Facilisis Quam Scelerisque Sapien. Et, Penatibus Aliquam Amet Tellus</p>
+      <p className='p__opensans' style={{color: '#AAA', marginTop: '2rem'}}>View a couple of dishes made from recipes provided by some of our very own users.</p>
       <button type='button' className='custom__button'>View More</button>
     </div>
       <div className='app__gallery-images'>
