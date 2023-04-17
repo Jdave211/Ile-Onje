@@ -1,34 +1,29 @@
 {
   "files": {
-    "main.css": "/Ile-Onje/static/css/main.0eda671b.css",
-    "main.js": "/Ile-Onje/static/js/main.7a60ef0a.js",
-    "static/media/meal.mp4": "/Ile-Onje/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "main.css": "/Ile-Onje/static/css/main.548d1f5f.css",
+    "main.js": "/Ile-Onje/static/js/main.066c8bd5.js",
     "static/media/bg.png": "/Ile-Onje/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/welcome.png": "/Ile-Onje/static/media/welcome.d724eb984456d9c97470.png",
     "static/media/findus.png": "/Ile-Onje/static/media/findus.585c393ccd3671513743.png",
-    "static/media/laurels.png": "/Ile-Onje/static/media/laurels.e760828692795d4aafd7.png",
-    "static/media/chef.png": "/Ile-Onje/static/media/chef.02d6c5b61bfdc70303b4.png",
-    "static/media/menu.png": "/Ile-Onje/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/chef.png": "/Ile-Onje/static/media/chef.811d177a2a27e2d3231a.png",
+    "static/media/menu.png": "/Ile-Onje/static/media/menu.314cfc536c9f97c99a7c.png",
     "static/media/gallery04.png": "/Ile-Onje/static/media/gallery04.c36a695f8a3b9d311106.png",
-    "static/media/gallery03.png": "/Ile-Onje/static/media/gallery03.b2d50180e8590d4dd330.png",
-    "static/media/gallery02.png": "/Ile-Onje/static/media/gallery02.27663bd9016b72ccd328.png",
-    "static/media/gallery01.png": "/Ile-Onje/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/gallery02.png": "/Ile-Onje/static/media/gallery02.346a3eba4d76047a668e.png",
+    "static/media/gallery03.png": "/Ile-Onje/static/media/gallery03.253554ac8da96b224ce3.png",
+    "static/media/gallery01.png": "/Ile-Onje/static/media/gallery01.63ea991f6dbdc855a138.png",
     "static/media/knife.png": "/Ile-Onje/static/media/knife.1121c0a5afb62acb31cb.png",
     "static/media/overlaybg.png": "/Ile-Onje/static/media/overlaybg.165362eea72d1614ae28.png",
-    "static/media/G.png": "/Ile-Onje/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/G.png": "/Ile-Onje/static/media/G.1dab86bc3f59ec38ef81.png",
+    "static/media/J.png": "/Ile-Onje/static/media/J.6387dbc5348dcd4ea91b.png",
+    "static/media/sign.png": "/Ile-Onje/static/media/sign.76773f30ae43323c0e10.png",
     "static/media/logo.png": "/Ile-Onje/static/media/logo.0286194c03de0a90dac9.png",
-    "static/media/award02.png": "/Ile-Onje/static/media/award02.8bbdd51499739653b003.png",
-    "static/media/award05.png": "/Ile-Onje/static/media/award05.48a7f5206184009dcb29.png",
-    "static/media/award01.png": "/Ile-Onje/static/media/award01.361a4bc44b59b55abeda.png",
-    "static/media/award03.png": "/Ile-Onje/static/media/award03.3f7ee934c17dccbd5fc6.png",
-    "static/media/sign.png": "/Ile-Onje/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/Ile-Onje/index.html",
     "static/media/spoon.svg": "/Ile-Onje/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.0eda671b.css.map": "/Ile-Onje/static/css/main.0eda671b.css.map",
-    "main.7a60ef0a.js.map": "/Ile-Onje/static/js/main.7a60ef0a.js.map"
+    "main.548d1f5f.css.map": "/Ile-Onje/static/css/main.548d1f5f.css.map",
+    "main.066c8bd5.js.map": "/Ile-Onje/static/js/main.066c8bd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eda671b.css",
-    "static/js/main.7a60ef0a.js"
+    "static/css/main.548d1f5f.css",
+    "static/js/main.066c8bd5.js"
   ]
 }
